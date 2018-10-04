@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/p1181customwidget" />
             <option value="$PROJECT_DIR$/p1191pendingintent" />
             <option value="$PROJECT_DIR$/p1261mediaplayer" />
+            <option value="$PROJECT_DIR$/p1271soundpool" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

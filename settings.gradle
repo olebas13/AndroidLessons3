@@ -1,1 +1,1 @@
-include ':app', ':p1171simplewidget', ':p1181customwidget', ':p1191pendingintent', ':p1261mediaplayer'
+include ':app', ':p1171simplewidget', ':p1181customwidget', ':p1191pendingintent', ':p1261mediaplayer', ':p1271soundpool'
